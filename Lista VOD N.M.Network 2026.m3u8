@@ -1,0 +1,757 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="⭐⭐Romanesti⭐⭐",❤Vă mulțumim că ați ales Nick Media Network©❤  
+https://static.videezy.com/system/protected/files/000/040/585/Romania_Flag_Loop.mp4
+#EXTINF:-1 group-title="⭐⭐Romanesti⭐⭐",⚡⚡ CANALE FILME ⚡⚡
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k0VO0LH.png" group-title="⭐⭐Romanesti⭐⭐",⭐⭐Mireasa⭐⭐
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k0VO0LH.png" group-title="⭐⭐Romanesti⭐⭐",⭐⭐Mireasa HD⭐⭐
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECsU1PQ.png" group-title="⭐⭐Romanesti⭐⭐",⭐⭐Asia Express⭐⭐
+https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MWVGxFl.png" group-title="⭐⭐Romanesti⭐⭐",⭐❤Insula Iubirii HD❤⭐
+https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8
+
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-logo="https://lo1.in/rom/antn1hd.png" group-title="⭐⭐Romanesti⭐⭐",Antena 1
+https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-logo="https://lo1.in/rom/antn1hd.png" group-title="⭐⭐Romanesti⭐⭐",Antena 1 HD
+https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
+#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-logo="https://cdn.epg.one/img2/3745.png" group-title="⭐⭐Romanesti⭐⭐",Antena 3
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 tvg-id="AntenaMonden.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300" group-title="⭐⭐Romanesti⭐⭐",Antena Stars
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyPlay.ro@SD" tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="⭐⭐Romanesti⭐⭐",Antena Comedy HD
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-logo="https://i.imgur.com/p0jUnEJ.png" group-title="⭐⭐Romanesti⭐⭐",Antena Internațional HD
+https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
+
+#EXTINF:-1 tvg-id="PROTV.ro" tvg-logo="https://cdn.epg.one/img2/3739.png" group-title="⭐⭐Romanesti⭐⭐",Pro TV
+http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8
+#EXTINF:-1 tvg-id="PROTV.ro" tvg-logo="https://cdn.epg.one/img2/3739.png" group-title="⭐⭐Romanesti⭐⭐",Pro TV HD
+http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8
+#EXTINF:-1 tvg-id="ROTVValencia.es@SD" tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="⭐⭐Romanesti⭐⭐",ROTV Valencia
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+#EXTINF:-1 tvg-id="ProArena.ro@HD" tvg-logo="http://epg.it999.ru/img2/7836.png" group-title="⭐⭐Romanesti⭐⭐",Pro Arena HD
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.ro@SD" tvg-logo="https://i.imgur.com/15ILp0P.png" group-title="⭐⭐Romanesti⭐⭐",Kanal D
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 tvg-id="KanalD2.ro" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMDUlMkYxNzA4Mzc3XzE3MDgzNzdf/MTUyeDUwcHhfcG5nU0RfS2FuYWwyLnBu/ZyZoYXNoPTkyN2VhZTk3NTFiN2FjYzAzNTQ0MWExOGU1MWUwZTA5.png" group-title="⭐⭐Romanesti⭐⭐",Kanal D2
+https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Prima_TV_%282021%29.png" group-title="⭐⭐Romanesti⭐⭐",Prima TV
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
+#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Prima_TV_%282021%29.png" group-title="⭐⭐Romanesti⭐⭐",Prima TV HD
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
+#EXTINF:-1 tvg-id="PrimaNews.ro@SD" tvg-logo="https://i.imgur.com/9Z3ogIL.png" group-title="⭐⭐Romanesti⭐⭐",Prima News
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalTV.ro@SD" tvg-logo="http://epg.it999.ru/img2/3725.png" group-title="⭐⭐Romanesti⭐⭐",National TV
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="National24Plus.ro@SD" tvg-logo="http://epg.it999.ru/img2/3689.png" group-title="⭐⭐Romanesti⭐⭐",National 24 Plus
+https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="⭐⭐Romanesti⭐⭐",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/master.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="⭐⭐Romanesti⭐⭐",TVR 1 HD
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-logo="https://i.imgur.com/mKouHIZ.png" group-title="⭐⭐Romanesti⭐⭐",TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-logo="https://i.imgur.com/mKouHIZ.png" group-title="⭐⭐Romanesti⭐⭐",TVR 2 HD
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR3.ro@SD" tvg-logo="https://i.imgur.com/yHCuTap.png" group-title="⭐⭐Romanesti⭐⭐",TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR3.ro@SD" tvg-logo="https://i.imgur.com/yHCuTap.png" group-title="⭐⭐Romanesti⭐⭐",TVR 3 HD
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRCluj.ro@SD" tvg-logo="https://i.imgur.com/RkDra93.png" group-title="⭐⭐Romanesti⭐⭐",TVR Cluj
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRCraiova.ro@SD" tvg-logo="https://i.imgur.com/vxWbQiy.png" group-title="⭐⭐Romanesti⭐⭐",TVR Craiova
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRIasi.ro@SD" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="⭐⭐Romanesti⭐⭐",TVR Iasi
+http://82.208.141.70:8778/1.m3u8
+#EXTINF:-1 tvg-id="TVRInternational.ro@SD" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="⭐⭐Romanesti⭐⭐",TVR International
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRMoldova.md@HD" tvg-logo="https://i.imgur.com/wDe9gL2.png" group-title="⭐⭐Romanesti⭐⭐",TVR Moldova HD
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVRTarguMures.ro@SD" tvg-logo="https://i.imgur.com/9Hptdqj.png" group-title="⭐⭐Romanesti⭐⭐",TVR Targu-Mures
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRTimisoara.ro@SD" tvg-logo="https://i.imgur.com/0x6Edei.png" group-title="⭐⭐Romanesti⭐⭐",TVR Timisoara
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRCultural.ro@SD" tvg-logo="https://i.imgur.com/U9i70C9.png" group-title="⭐⭐Romanesti⭐⭐",TVR Cultural
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-logo="http://epg.it999.ru/img2/3777.png" group-title="⭐⭐Romanesti⭐⭐",Happy Channel HD
+https://live4dai.antenaplay.ro/live2_sdi13/live2_sdi13_600k.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro@SD" tvg-logo="http://epg.it999.ru/img2/7833.png" group-title="⭐⭐Romanesti⭐⭐",Acasa Gold
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8
+#EXTINF:-1 tvg-id="Acasa.ro@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png" group-title="⭐⭐Romanesti⭐⭐",Acasa TV HD
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8
+
+#EXTINF:-1 group-title="⭐⭐Romanesti⭐⭐",⚡⚡ CANALE STIRI ⚡⚡
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-id="Digi24.ro@SD" tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="⭐⭐Romanesti⭐⭐",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Digi24.ro@SD" tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="⭐⭐Romanesti⭐⭐",Digi 24 HD
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="AlephNews.ro@SD" tvg-logo="https://i.imgur.com/qPRQZMI.png" group-title="⭐⭐Romanesti⭐⭐",Aleph News HD
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ObservatorNews.ro" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="⭐⭐Romanesti⭐⭐",Observator News HD
+https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+
+#EXTINF:-1 tvg-id="InformatiaTV.ro@SD" tvg-logo="https://i.imgur.com/P1ZbVRg.png" group-title="⭐⭐Romanesti⭐⭐",Informatia TV
+https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+
+#EXTINF:-1 tvg-id="DottoTV.ro@SD" tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="⭐⭐Romanesti⭐⭐",Dotto TV HD
+https://live.dottotv.ro/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="⭐⭐Romanesti⭐⭐",TVR Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealitateaPlus.ro@SD" tvg-logo="https://i.imgur.com/kqEPVPk.png" group-title="⭐⭐Romanesti⭐⭐",Realitatea Plus HD
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealitateaStar.ro@SD" tvg-logo="https://i.imgur.com/bNdpyAZ.png" group-title="⭐⭐Romanesti⭐⭐",Realitatea Star 
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+
+#EXTINF:-1 tvg-id="BucovinaTV.ro@SD" tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="⭐⭐Romanesti⭐⭐",Bucovina TV HD
+https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPlusSuceava.ro@SD" tvg-logo="https://i.imgur.com/f4fzoLe.png" group-title="⭐⭐Romanesti⭐⭐",TVPlus Suceava
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B1.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png" group-title="⭐⭐Romanesti⭐⭐",B1 HD
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+
+#EXTINF:-1 group-title="⭐⭐Romanesti⭐⭐",⚡⚡ CANALE FAMILY ⚡⚡
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl@MagyarRomania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" group-title="⭐⭐Romanesti⭐⭐",FILMBOX+ Hits
+https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Romania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="⭐⭐Romanesti⭐⭐",FILMBOX+ One
+https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemaraton.ro" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3c68213a4d0af33e9ddd097d31ac7af2.png" group-title="⭐⭐Romanesti⭐⭐",CineMaraton HD
+https://dokagents.site/live/cinemaraton/mono.m3u8
+
+#EXTINF:-1 tvg-id="AXNBlack.us@Romania" tvg-logo="http://epg.it999.ru/img2/3694.png" group-title="⭐⭐Romanesti⭐⭐",AXN Black
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8
+
+#EXTINF:-1 tvg-id="XXXX" tvg-logo="http://epg.it999.ru/img2/3796.png" group-title="⭐⭐Romanesti⭐⭐",Bollywood Clasic
+https://tvextra-hls.b-cdn.net/bollywood/bollywood.m3u8
+#EXTINF:-1 tvg-id="XXXX" tvg-logo="https://lo1.in/rom/blywd.png" group-title="⭐⭐Romanesti⭐⭐",Bollywood Film
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
+#EXTINF:-1 tvg-id="XXXX" tvg-logo="https://i.imgur.com/uMDDcJV.png" group-title="⭐⭐Romanesti⭐⭐",FightBox HD 
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 tvg-id="XXXX" tvg-logo="https://i.imgur.com/7DUDGVS.jpeg" group-title="⭐⭐Romanesti⭐⭐",FilmBox+ Comedy HD
+https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
+#EXTINF:-1 tvg-id="XXXX" tvg-logo="https://i.imgur.com/RtmEKJt.jpeg" group-title="⭐⭐Romanesti⭐⭐",FilmBox+ Festival HD
+https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
+#EXTINF:-1 tvg-id="XXXX" tvg-logo="https://i.imgur.com/MF0oSSW.jpeg" group-title="⭐⭐Romanesti⭐⭐",FilmBox+ Hits HD
+https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
+#EXTINF:-1 tvg-id="XXXX" tvg-logo="https://i.imgur.com/whIsML3.jpeg" group-title="⭐⭐Romanesti⭐⭐",FilmBox+ Love & Crime 
+https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+#EXTINF:-1 tvg-id="XXXX" tvg-logo="https://i.imgur.com/ZYOSeEx.jpeg" group-title="⭐⭐Romanesti⭐⭐",Cine Wow HD
+https://tvextra-hls.b-cdn.net/cinewow/cinewow.m3u8
+
+#EXTINF:-1 group-title="⭐⭐Romanesti⭐⭐",⚡⚡ CANALE GENERALE ⚡⚡
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-id="A7TV.ro@SD" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="⭐⭐Romanesti⭐⭐",A7TV
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+#EXTINF:-1 tvg-id="KapitalTV.ro@SD" tvg-logo="https://i.imgur.com/Q1PYwkZ.png" group-title="⭐⭐Romanesti⭐⭐",Kapital TV 
+https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-id="IasiTVLife.ro@SD" tvg-logo="https://i.imgur.com/HY7EL5e.png" group-title="⭐⭐Romanesti⭐⭐",IasiTV Life
+https://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF:-1 tvg-id="Moldova1.md@SD" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title="⭐⭐Romanesti⭐⭐",Moldova 1
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+#EXTINF:-1 tvg-id="NasulTV.ro@SD" tvg-logo="https://i.imgur.com/MoguWme.png" group-title="⭐⭐Romanesti⭐⭐",Nasul TV HD
+https://live.nasul.tv/live/stream.m3u8
+#EXTINF:-1 tvg-id="NovaTVBrasov.ro@SD" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="⭐⭐Romanesti⭐⭐",Nova TV Brasov
+http://novapress.ro:2022/live/nova/playlist.m3u8
+#EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="⭐⭐Romanesti⭐⭐",PROFI 24 TV
+https://live.ro24tv.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-id="QubTV.ro@SD" tvg-logo="https://i.imgur.com/GvyF2Wh.png" group-title="⭐⭐Romanesti⭐⭐",Qub TV
+https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
+#EXTINF:-1 tvg-id="TeleMBotosani.ro@SD" tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="⭐⭐Romanesti⭐⭐",TeleM Botosani
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele7ABCHD.ro@SD" tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="⭐⭐Romanesti⭐⭐",Tele7ABC HD
+https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="ArgesTV.ro@SD" tvg-logo="https://i.imgur.com/qufz6nk.png" group-title="⭐⭐Romanesti⭐⭐",Arges TV  
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+#EXTINF:-1 tvg-id="AgroTV.ro@SD" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="⭐⭐Romanesti⭐⭐",Agro TV
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 tvg-id="AlephBusiness.ro@SD" tvg-logo="https://i.imgur.com/IqvZBeo.png" group-title="⭐⭐Romanesti⭐⭐",Aleph Business
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="JOBTV.ro@SD" tvg-logo="https://i.imgur.com/UzcZNe3.png" group-title="⭐⭐Romanesti⭐⭐",JOB TV HD
+https://jobtvserver.eu/hls/stream.m3u8
+
+#EXTINF:-1 group-title="⭐⭐Romanesti⭐⭐",⚡⚡ CANALE RELIGIOUS ⚡⚡
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512" group-title="⭐⭐Romanesti⭐⭐",Alfa Omega TV HD
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+#EXTINF:-1 tvg-id="LLBNTVRomanian.us@SD" tvg-logo="https://i.imgur.com/WsOfy19.png" group-title="⭐⭐Romanesti⭐⭐",Lighting Lives Blessing Nations TV
+https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8
+#EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-logo="https://i.imgur.com/2RxQNm6.png" group-title="⭐⭐Romanesti⭐⭐",MISA TV HD
+https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
+#EXTINF:-1 tvg-id="SperantaTV.ro@SD" tvg-logo="https://i.imgur.com/KUyqQCX.png" group-title="⭐⭐Romanesti⭐⭐",SperantaTV HD
+https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/master.m3u8
+#EXTINF:-1 tvg-id="CredoTV.ro@SD" tvg-logo="https://i.imgur.com/RD4TgcM.png" group-title="⭐⭐Romanesti⭐⭐",Credo TV HD
+https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
+
+#EXTINF:-1 group-title="⭐⭐Romanesti⭐⭐",⚡⚡ CANALE MUZICA ⚡⚡
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro@SD" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="⭐⭐Romanesti⭐⭐",Atomic Academy TV HD 🎶
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-id="AtomicTV.ro@SD" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="⭐⭐Romanesti⭐⭐",Atomic TV 🎶
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-id="BoomTV.ro@HD" tvg-logo="https://live.radioboom.ro/live-tv/poster.jpg" group-title="⭐⭐Romanesti⭐⭐",Boom TV HD 🎶
+https://tvboom.ro/live-tv/live.m3u8
+#EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="⭐⭐Romanesti⭐⭐",EMI TV 🎶
+https://astra.emitv.ro/hls/emi/index.m3u8
+#EXTINF:-1 tvg-id="HitFM.md@SD" tvg-logo="https://i.imgur.com/QwqM5j6.png" group-title="⭐⭐Romanesti⭐⭐",Hit FM HD 🎶
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ImpactTV.ro@HD" tvg-logo="https://tvimpact.ro/impact-logo.png" group-title="⭐⭐Romanesti⭐⭐",Impact TV HD 🎶
+https://live.tvimpact.ro:8088/hevc/index.m3u8
+#EXTINF:-1 tvg-id="ImpactTVDance.ro@SD" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="⭐⭐Romanesti⭐⭐",Impact TV Dance HD 🎶
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-id="ImpactTVManele.ro@SD" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="⭐⭐Romanesti⭐⭐",Impact TV Manele HD 🎶
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 tvg-id="LiraTV.es@SD" tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="⭐⭐Romanesti⭐⭐",LiraTV HD 🎶
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioChisinau.md@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Radio_Chi%C8%99in%C4%83u.svg" group-title="⭐⭐Romanesti⭐⭐",Radio Chisinau 🎶
+https://radiochisinau.md/hls/RChisinau.m3u8
+#EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="⭐⭐Romanesti⭐⭐",Radio Fx Net HD 🎶
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioMoldovaMuzical.md@SD" tvg-logo="https://i.imgur.com/ZFHWst4.png" group-title="⭐⭐Romanesti⭐⭐",Radio Moldova Muzical HD 🎶
+https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
+#EXTINF:-1 tvg-id="TezaurTV.md@SD" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="⭐⭐Romanesti⭐⭐",Tezaur TV HD 🎶
+https://tezaurtv.md/stream/index.m3u8
+#EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="⭐⭐Romanesti⭐⭐",Tele7music 🎶
+https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="NorocTV.md@SD" tvg-logo="https://i.imgur.com/XvYqpqG.png" group-title="⭐⭐Romanesti⭐⭐",Noroc TV HD 🎶
+https://media.noroc.tv/noroc/bitrate_1080p.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ro@SD" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="⭐⭐Romanesti⭐⭐",Super TV HD 🎶
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="RadioRomania3Net.ro@SD" tvg-logo="https://www.radio3net.ro/img/logos/logo_3.png" group-title="⭐⭐Romanesti⭐⭐",Radio Romania 3Net 🎶
+https://media.3netmedia.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVRFolclor.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png" group-title="⭐⭐Romanesti⭐⭐",TVR Folclor HD 🎶
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="mooz.ro" tvg-logo="https://i.imgur.com/B2RJFRd.jpeg" group-title="⭐⭐Romanesti⭐⭐",Mooz Ro 🎶
+https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
+#EXTINF:-1 tvg-id="moozdance.ro" tvg-logo="https://lo1.in/rom/mozdnc.png" group-title="⭐⭐Romanesti⭐⭐",Mooz Dance 🎶
+https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-id="moozhits.ro" tvg-logo="https://lo1.in/rom/mzhit.png" group-title="⭐⭐Romanesti⭐⭐",Mooz Hits 🎶
+https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-id="moozlove.ro" tvg-logo="https://i.imgur.com/r27WYVi.jpeg" group-title="⭐⭐Romanesti⭐⭐",Mooz Love 🎶
+https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
+#EXTINF:-1 tvg-id="moozretro.ro" tvg-logo="https://i.imgur.com/smCjnzh.jpeg" group-title="⭐⭐Romanesti⭐⭐",Mooz Retro 🎶
+https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
+#EXTINF:-1 tvg-id="kisstv.ro" tvg-logo="https://lo1.in/rom/kiss.png" group-title="⭐⭐Romanesti⭐⭐",Kiss TV HD 🎶
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-id="magictv.ro" tvg-logo="https://lo1.in/rom/mgc.png" group-title="⭐⭐Romanesti⭐⭐",Magic TV HD 🎶
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:-1 group-title="⭐⭐Romanesti⭐⭐",⚡⚡ CANALE DESENE ⚡⚡
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="⭐⭐Romanesti⭐⭐",BabyFirst HD
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 tvg-id="babysharktv.ro" tvg-logo="https://i.imgur.com/Jjcprnv.jpeg" group-title="⭐⭐Romanesti⭐⭐",Baby Shark TV HD ✦●✦ Pentru Olivia ✦●✦
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-id="babysharktv.ro" tvg-logo="https://i.imgur.com/VI6WIuQ.jpeg" group-title="⭐⭐Romanesti⭐⭐",SpongeBob TV HD ✦●✦ Pentru Olivia ✦●✦
+https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
+#EXTINF:-1 tvg-id="babysharktv.ro" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/a2dcce67b80075302ae0d0f790af8fb3.png" group-title="⭐⭐Romanesti⭐⭐",Duck TV HD ✦●✦ Pentru Olivia ✦●✦
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168
+
+#EXTINF:-1 group-title="⭐⭐Romanesti⭐⭐",⚡⚡ CANALE SPORT ⚡⚡
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-id="TVRSport.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" group-title="⭐⭐Romanesti⭐⭐",TVR Sport HD ⚽
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="⭐⭐Romanesti⭐⭐",Realitatea Sportiva HD ⚽
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="⭐⭐Turkey⭐⭐",❤Nick Media Network©'ü seçtiğiniz için teşekkür ederiz❤
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 group-title="⭐⭐Turkey⭐⭐",⚡⚡ FİLM KANALLARI ⚡⚡
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="⭐⭐Turkey⭐⭐",TRT 1 SD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="⭐⭐Turkey⭐⭐",TRT 1 HD Original NK
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="⭐⭐Turkey⭐⭐",Ciftci TV HD
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png" group-title="⭐⭐Turkey⭐⭐",GZT TV HD
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" group-title="⭐⭐Turkey⭐⭐",TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9EruWIQ.png" group-title="⭐⭐Turkey⭐⭐",Luys TV HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="⭐⭐Turkey⭐⭐",A2 HD
+http://89.187.191.41/A2-HD-TR/video.m3u8
+
+#EXTINF:-1 tvg-id="TRTEBA.tr" tvg-name="SHOW TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png" group-title="⭐⭐Turkey⭐⭐",TRT EBA HD
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="NOW TV HD" tvg-logo="https://sercemtv.com.tr/sercemlogo.jpg" group-title="⭐⭐Turkey⭐⭐",Sercem TV HD
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="EdessaTV.tr" tvg-name="Edessa TV" tvg-logo="https://i.imgur.com/rhU6j9I.png" group-title="⭐⭐Turkey⭐⭐",Edessa TV HD
+https://canli.edessatv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://i.imgur.com/wlfyj5l.png" group-title="⭐⭐Turkey⭐⭐",Kanal 7 Avrupa HD
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://i.imgur.com/fWlLvRA.png" group-title="⭐⭐Turkey⭐⭐",Afroturk TV SD
+https://edge1.taksimbilisim.com/naturaltv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="⭐⭐Turkey⭐⭐",EURO D HD
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="KANAL D" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="⭐⭐Turkey⭐⭐",Kanal D Drama HD
+https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal7.tr" group-title="⭐⭐Turkey⭐⭐",KANAL 7 HD
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 tvg-id="360.tr" group-title="⭐⭐Turkey⭐⭐",360 TV HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 tvg-id="AksuTV.tr" tvg-name="TLC" tvg-logo="https://i.imgur.com/mgDCKiy.png" group-title="⭐⭐Turkey⭐⭐",Aksu TV HD
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://i.imgur.com/keaC4Ke.jpeg" group-title="⭐⭐Turkey⭐⭐",TV4 SD
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:-1 tvg-id="ArasTV.tr" tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="⭐⭐Turkey⭐⭐",Aras TV HD
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CayTV.tr" tvg-logo="https://i.imgur.com/ndupxwu.png" group-title="⭐⭐Turkey⭐⭐",Cay TV HD
+https://edge.taksimbilisim.com/caytv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeyazTV.tr" group-title="⭐⭐Turkey⭐⭐",BEYAZ TV HD
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+
+#EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="https://i.imgur.com/p3ON1oX.png" group-title="⭐⭐Turkey⭐⭐",Benguturk TV HD
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
+#EXTINF:-1 tvg-id="TGRTHaber.tr" group-title="⭐⭐Turkey⭐⭐",TGRT HABER HD
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+
+#EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="⭐⭐Turkey⭐⭐",Deniz Postasi TV HD
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UlkeTV.tr" group-title="⭐⭐Turkey⭐⭐",ÜLKE TV HD
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ERTV.tr" tvg-logo="https://i.imgur.com/VDGEPrD.png" group-title="⭐⭐Turkey⭐⭐",ER TV HD
+"https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HalkTV.tr" group-title="⭐⭐Turkey⭐⭐",HALK TV HD
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://i.imgur.com/nq6QsQH.jpeg" group-title="⭐⭐Turkey⭐⭐",24 TV HD
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="https://i.imgur.com/rOJZWpd.png" group-title="⭐⭐Turkey⭐⭐",CNBC-e HD
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8?tv=1
+
+#EXTINF:-1 tvg-id="A2TV.tr" group-title="⭐⭐Turkey⭐⭐",A2 HD
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+
+#EXTINF:-1 tvg-id="ETVKayseri.tr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj" group-title="⭐⭐Turkey⭐⭐",ETV Kayseri SD
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-logo="https://i.imgur.com/AvayR9M.jpeg" group-title="⭐⭐Turkey⭐⭐",KANAL 7 AVRUPA HD
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://i.imgur.com/eLa0h5h.png" group-title="⭐⭐Turkey⭐⭐",TRT TÜRK HD
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Tivi6.tr" tvg-logo="https://i.imgur.com/Mbi0jbz.png" group-title="⭐⭐Turkey⭐⭐",Tivi 6 SD
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" group-title="⭐⭐Turkey⭐⭐",NTV HD
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3br8RCq.png" group-title="⭐⭐Turkey⭐⭐",Kanal 33 SD
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mr7XPii.png" group-title="⭐⭐Turkey⭐⭐",Kanal 26 HD
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eXErSv0.png" group-title="⭐⭐Turkey⭐⭐",Kanal 3 SD
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15ndGKu.jpeg" group-title="⭐⭐Turkey⭐⭐",İSVİÇRE TV SD
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s9tIheq.jpeg" group-title="⭐⭐Turkey⭐⭐",DİZİ TV HD
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wyWappU.png" group-title="⭐⭐Turkey⭐⭐",Mavi Karadeniz TV SD
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xj1gvrq.png" group-title="⭐⭐Turkey⭐⭐",MTurk TV SD
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://i.imgur.com/vtU81HD.jpeg" group-title="⭐⭐Turkey⭐⭐",TABII TV HD
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
+
+#EXTINF:-1 tvg-logo="	https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="⭐⭐Turkey⭐⭐",SiNEMA 1 HD
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="https://i.imgur.com/51xCkXG.png" group-title="⭐⭐Turkey⭐⭐",Kanal 12 HD
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+
+#EXTINF:-1 group-title="⭐⭐Turkey⭐⭐",⚡⚡ MÜZİK KANALLARI ⚡⚡
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" group-title="⭐⭐Turkey⭐⭐",TRT MÜZiK HD 🎶
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="⭐⭐Turkey⭐⭐",Med Muzik HD 🎶
+http://54.36.110.140/live3/live3.m3u8
+
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="https://i.imgur.com/637uqW9.jpeg" group-title="⭐⭐Turkey⭐⭐",DREAM TURK HD 🎶
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="https://i.imgur.com/yN8SvR6.jpeg" group-title="⭐⭐Turkey⭐⭐",NR 1 TURK HD 🎶
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+
+#EXTINF:-1 tvg-id="Number1Ask.tr" tvg-name="Number 1 Ask" tvg-logo="https://i.ibb.co/5cJ0KtQ/nr1-ask.png" group-title="⭐⭐Turkey⭐⭐",NR1 ASK HD 🎶
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="https://i.imgur.com/NkfvUsK.jpeg" group-title="⭐⭐Turkey⭐⭐",POWER LOVE HD 🎶
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="https://i.imgur.com/FT9DdWo.jpeg" group-title="⭐⭐Turkey⭐⭐",NR 1 DAMAR HD 🎶
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
+
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="https://i.imgur.com/hVXs3Pa.jpeg" group-title="⭐⭐Turkey⭐⭐",POWER TURK HD 🎶
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+
+#EXTINF:-1 tvg-id="Number1TV.tr" tvg-logo="https://i.imgur.com/gdjondq.jpeg" group-title="⭐⭐Turkey⭐⭐",NR 1 TV HD 🎶
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-logo="https://i.imgur.com/tn6wPdY.jpeg" group-title="⭐⭐Turkey⭐⭐",POWER TURK SLOW HD 🎶
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="https://i.imgur.com/eYKVM4y.jpeg" group-title="⭐⭐Turkey⭐⭐",POWER TV AKUSTiK HD 🎶
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="https://i.imgur.com/OuMFOG8.jpeg" group-title="⭐⭐Turkey⭐⭐",POWER TURK TAPTAZE HD 🎶
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerDance.tr" tvg-logo="https://i.imgur.com/sqigxmY.jpeg" group-title="⭐⭐Turkey⭐⭐",POWER DANCE HD 🎶
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jsVVE9H.jpeg" group-title="⭐⭐Turkey⭐⭐",SLOW KARADENIZ TV HD 🎶
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+
+#EXTINF:-1 tvg-name="TRTMuzik" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="⭐⭐Turkey⭐⭐",TRT Muzik SD 🎶
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="⭐⭐Turkey⭐⭐",⚡⚡ SPOR KANALLARI ⚡⚡
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-id="ASpor.tr" group-title="⭐⭐Turkey⭐⭐",ASPOR HD ⚽
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 tvg-id="HTSporTV.tr" tvg-logo="https://i.imgur.com/c1WTCMf.jpeg" group-title="⭐⭐Turkey⭐⭐",HT SPOR HD ⚽
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
+
+#EXTINF:-1 tvg-id="TJKTV..tr" tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="⭐⭐Turkey⭐⭐",TJK TV. SD ⚽
+https://tjktv-live.tjk.org/tjktv.m3u8
+
+#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="https://i.imgur.com/KsUNo37.jpeg" group-title="⭐⭐Turkey⭐⭐",MELTEM TV HD ⚽
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdXAUaP.jpeg" group-title="⭐⭐Turkey⭐⭐",DENiZ POSTASI TV HD ⚽
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="⭐⭐Turkey⭐⭐",TJK TV HD ⚽
+https://tjktv-live.tjk.org/tjktv_1080p.m3u8
+
+#EXTINF:-1 group-title="⭐⭐Turkey⭐⭐",⚡⚡ Cartoon-Kanäle ⚡⚡
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/91
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="⭐⭐Turkey⭐⭐",Minika Cocuk HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NzgrLD3.jpeg" group-title="⭐⭐Turkey⭐⭐",TRT DİYANET ÇOCUK HD
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eb90eQ.jpeg" group-title="⭐⭐Turkey⭐⭐",MINIKA GO SD
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5dSOgn.jpeg" group-title="⭐⭐Turkey⭐⭐",Zarok TV Kürtçe HD
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-1 group-title="⭐⭐Turkey⭐⭐",⚡⚡ DOKUMENTATIONSKANÄLE ⚡⚡
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-name="BIR TV" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="⭐⭐Turkey⭐⭐",BIR TV SD
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LIFE TV" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="⭐⭐Turkey⭐⭐",LIFE TV HD
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",❤Vă mulțumim că ați ales Nick Media Network©❤ 
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 group-title="⭐⭐Radio Romanesti⭐⭐",🇷🇴ROMANIA🇷🇴
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",▶️ Ziua începe altfel când asculți un hit care te face fericit ▶️ 
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o7PqIKO.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",Radio Play Romania LIVE
+http://mscp1.gazduireradio.ro:8080/
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/SvVASOU.png" group-title="⭐⭐Radio Romanesti⭐⭐",Kiss FM Romania LIVE
+https://live.kissfm.ro/kissfm.aacp
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/xuuTy1E.png" group-title="⭐⭐Radio Romanesti⭐⭐",Radio ZU Romania LIVE
+http://zuicast.digitalag.ro:9420/zu
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8MZKZYG.png" group-title="⭐⭐Radio Romanesti⭐⭐",Rock FM Romania LIVE
+https://live.rockfm.ro/rockfm.aacp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uBceVam.png" group-title="⭐⭐Radio Romanesti⭐⭐",Magic FM Romania LIVE
+https://live.magicfm.ro/magicfm.aacp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2s7fT4.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",National FM Romania LIVE
+http://live2.nationalfm.ro:8001/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHBOsxi.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",Europa FM Romania LIVE
+http://astreaming.edi.ro:8000/EuropaFM_aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2L2dqir.png" group-title="⭐⭐Radio Romanesti⭐⭐",Digi FM Romania LIVE
+https://edge76.rcs-rds.ro/digifm/digifm.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vuONeTi.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",Radio Romania Actualitati LIVE
+http://89.238.227.6:8002/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GyDAtla.png" group-title="⭐⭐Radio Romanesti⭐⭐",MixMusic Radio Romania LIVE
+http://asculta.mixmusicradio.ro:8890/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6mnGr4.png" group-title="⭐⭐Radio Romanesti⭐⭐",YOU FM Romania LIVE
+https://asculta.muzicaok.de:8034/stream
+
+#EXTINF:-1 group-title="⭐⭐Radio Romanesti⭐⭐",⭐⭐MANELE PETRECERE⭐⭐
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JROsMm.png" group-title="⭐⭐Radio Romanesti⭐⭐",Radio Manele Romania LIVE
+http://a.fmradiomanele.ro:8054/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dC3lK8V.png" group-title="⭐⭐Radio Romanesti⭐⭐",Radio Taraf Romania LIVE
+http://asculta.radiotaraf.com:7100/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WkRVSaX.png" group-title="⭐⭐Radio Romanesti⭐⭐",Radio Pro Manele Romania LIVE
+http://radiopromanele.zapto.org:8000/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xm58JSz.png" group-title="⭐⭐Radio Romanesti⭐⭐",Radio Nebunya Romania LIVE
+https://ssl.radionebunya.ro:10998/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQqcDpL.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",Radio FUNKY Manele Romania LIVE
+http://live.radiofunky.ro:8888/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HSWkWLr.png" group-title="⭐⭐Radio Romanesti⭐⭐",Radio Petrecere LIVE
+http://petrecere.fmradiomanele.ro:8123/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1OMiOB.png" group-title="⭐⭐Radio Romanesti⭐⭐",Radio Petrecere Romania LIVE
+http://live.radiolautaru.ro:9000/
+
+#EXTINF:-1 group-title="⭐⭐Radio Romanesti⭐⭐",🇹🇷TURKEY🇹🇷
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LiYAjub.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",Turkuvaz Efsane Türkiye LIVE
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/NNuwF5L.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",Turkuvaz Romantik Türkiye LIVE
+https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/K8u2gkn.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",TRT Türkü Türkiye LIVE
+https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/SfKFFWY.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",TRT Radyo 1 Türkiye LIVE
+https://trt.radyotvonline.net/trt1
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/eZl670V.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",Süper FM Türkiye LIVE
+https://trt.radyotvonline.net/trtfm
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/PSamYY7.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",Kafa Radyo Türkiye LIVE
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/tZd9Sya.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",Kral Pop Türkiye LIVE
+https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/265QCFZ.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",Alem FM LIVE
+http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/rrx4XNF.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",Fenomen Türk Türkiye LIVE
+https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/SBXEKWd.jpeg" group-title="⭐⭐Radio Romanesti⭐⭐",Power - Pop Türkiye LIVE
+https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞",❤  Vă mulțumim că ați ales Nick Media Network©❤  
+http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9194
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: Playboy TV HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: O-la-la! HD
+http://31.148.48.15/O-la-la/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: MILF TV HD
+https://cdn.redtraffic.net/milf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: Big Tits SD
+https://cdn.redtraffic.net/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: Fetish SD
+https://cdn.redtraffic.net/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: Pornstar HD
+https://cdn.redtraffic.net/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: Big Ass HD
+https://cdn.redtraffic.net/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: Latina HD
+https://cdn.redtraffic.net/latina.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: POV HD
+https://cdn.redtraffic.net/pov.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: Teen HD
+https://cdn.redtraffic.net/teen.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: Hardcore HD
+https://cdn.redtraffic.net/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: Threesome SD
+https://cdn.redtraffic.net/threesome.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: Rough SD
+https://cdn.redtraffic.net/rough.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: Gangbang HD
+https://cdn.redtraffic.net/gangbang.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: Anal HD
+https://cdn.redtraffic.net/anal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult 18+🔞🔞" parent-code="1998",XXX: Brunette HD
+https://cdn.redtraffic.net/brunette.m3u8
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: Adriana Lynn 4K
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_adriana_lynn_12minute.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: Allison Banks 4K
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_allison_banks_12minute.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: Amanda 4K
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_amanda_8minute.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: Anabela 4K
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_anabela_12minute.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: Ariadna 4K
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ariadna_12minute.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: Ariana and Gabriella 4K
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_ariana_and_gabriella_8minutes.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: VOD 1 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: VOD 2 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: VOD 3 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: VOD 4 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: VOD 5 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: VOD 6 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: VOD 7 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: VOD 8 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: VOD 9 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: VOD 10 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: VOD 11 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: FANTHD1 4K
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: FANTHD2 4K
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_anikkaalbrite_tiffanyfox/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: FANTHD3 4K
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_caprianderson/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: FANTHD4 4K
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_natalieheart_chloefoster/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: FANTHD5 4K
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_alicemarch/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: FANTHD6 4K
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_hollymichaels/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: FANTHD7 4K
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_conniecarter051514/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLpLuhC.jpeg" group-title="🔞🔞Adult Filme🔞🔞" parent-code="1998",XXX: FANTHD8 4K
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_emilygrey080514/content/vid01.mp4
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
